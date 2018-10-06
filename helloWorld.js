@@ -1,1 +1,4 @@
-alert('Hello World!!!');
+const helloWorld = "Hello World!";
+
+console.log(helloWorld);
+
