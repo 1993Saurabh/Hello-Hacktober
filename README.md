@@ -9,7 +9,7 @@
 
 
 
-### It is very, simple to participate simply submit your hello world in the language you dejear with its respective extension
+### It is very, simple to participate simply submit your hello world in the language you dear with its respective extension
 
 
 ## Example:
