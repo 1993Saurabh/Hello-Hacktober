@@ -24,7 +24,7 @@
 }
 ```
 
-## How partcipate?
+## How participate?
 
 ![image](https://user-images.githubusercontent.com/32227073/46517393-63f37b80-c845-11e8-89e1-c52df655a1e1.png)
 
