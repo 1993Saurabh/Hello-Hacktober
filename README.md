@@ -4,12 +4,12 @@
 
  
  
- This repository is for people who are starting to program, and want to participate in hacktoberfest  or just want to contribute
+ This repository is for people who are starting to program and want to participate in hacktoberfest  or just want to contribute.
 
 
 
 
-### It is very, simple to participate simply submit your hello world in the language you dear with its respective extension
+### It is very simple to participate. Simply submit your hello world in the language you love with its respective extension
 
 
 ## Example:
@@ -24,7 +24,7 @@
 }
 ```
 
-## How participate?
+## How to participate?
 
 ![image](https://user-images.githubusercontent.com/32227073/46517393-63f37b80-c845-11e8-89e1-c52df655a1e1.png)
 
