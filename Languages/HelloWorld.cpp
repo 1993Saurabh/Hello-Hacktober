@@ -1,11 +1,8 @@
-//
-// Created by insane-abhi on 30/9/18.
-//
 #include <iostream>
-using namespace std;
 
-int main() {
+int main(){
 
-    cout << "Hello World" << endl;
-    return 0;
+  std::cout << "Hello World!" << std::endl;
+  
+  return 0;
 }

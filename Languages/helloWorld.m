@@ -1,1 +1,5 @@
-disp('Hello, World!')
+main()
+{
+    puts("Hello World!");
+    return 0;
+}
