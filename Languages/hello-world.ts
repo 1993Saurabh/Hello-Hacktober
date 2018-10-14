@@ -1,3 +1,3 @@
-const helloWorld = 'Hello World with TypeScript <3';
+const helloWorld:string = 'Hello World with TypeScript <3';
 
 console.log(helloWorld);
