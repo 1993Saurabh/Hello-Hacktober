@@ -7,4 +7,4 @@ function helloWorld(applause){
   console.log('No applause :(');
 }
 
-helloWorld(greetRate);
+
