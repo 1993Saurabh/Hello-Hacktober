@@ -27,4 +27,9 @@ int main()
   
   cout<<"Thanks"<<endl;
   return 0;
+	
+ //ternary operator
+ int res=x>y?x:y;
+ cout<<res<<"is the smaller of the two";
+	
 }
