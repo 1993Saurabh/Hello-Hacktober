@@ -1,4 +1,1 @@
-function HelloWorld(){
-console.log(Hello, World!)
-}
-HelloWorld()
+console.log("Hello World");

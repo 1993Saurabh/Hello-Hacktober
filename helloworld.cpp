@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
+
 int main()
 {
-    cout<<"Hello World!";
+    cout <<"\nHalo Dunia"<< endl;
     return 0;
 }
