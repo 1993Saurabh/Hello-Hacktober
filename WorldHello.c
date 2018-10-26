@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-int main()
+
+/**
+ * Simply print, "World, hello!" to the terminal.
+ */
+int main(int argc, char **argv)
 {
-  puts("World, hello!");
-  return 0;
+    printf("World, hello!\n");
+
+    return 0;
 }
