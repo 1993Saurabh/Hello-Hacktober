@@ -9,11 +9,11 @@ now = datetime.datetime.now()
 hour = now.hour
 
 if hour < 10:
-    printf("Good morning World!")
+    print("Good morning World!")
 elif hour < 17:
-    printf("Hello World!")
+    print("Hello World!")
 else:
-    printf("Good evening World")
+    print("Good evening World")
     
 
 
