@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[16]:
-
+import diwali ke patake
 
 import datetime
 now = datetime.datetime.now()
