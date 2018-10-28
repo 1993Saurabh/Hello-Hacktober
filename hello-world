@@ -1,2 +1,0 @@
-"dlroW olleH">:v
-             ^,_@
