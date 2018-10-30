@@ -2,11 +2,11 @@
 
 
 /**
- * Simply print, "World, hello!" to the terminal.
+ * Simply print, "hello! world" to the terminal.
  */
 int main(int argc, char **argv)
 {
-    printf("World, hello!\n");
+    printf("Hello,World!\n");
 
     return 0;
 }
