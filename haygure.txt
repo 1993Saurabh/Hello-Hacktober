@@ -1,0 +1,2 @@
+if shinchan == heemawaari
+  mitsi == 1;
