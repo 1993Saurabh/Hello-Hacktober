@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+
+printf("Hello Hacktober, I am loving it.");
+
+}
