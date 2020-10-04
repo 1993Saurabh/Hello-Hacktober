@@ -1,0 +1,27 @@
+// Some important inbuild methods in C++ STL to helpful in coding.
+
+// sort
+
+sort(array_name, array_name + array_size);
+sort(vector_name.begin(), vector_name.end());
+sort(string_name.begin(), string_name.end());
+
+// reverse
+reverse(vector_name.begin(), vector_name.end());
+reverse(string_name.begin(), string_name.end());
+
+// binary_search
+binary_search(vector_name.begin(), vector_name.end(), element_to_be_search);
+binary_search(array_name,arrary_name+n,element_to_be_search);
+
+// lower_bound
+lower_bound(vector_name.begin(), vector_name.end(), element);
+upper_bound(vector_name.begin(), vector_name.end(), element);
+
+// next and previous permutation
+next_permutation(vector_name.begin(), vector_name.end()),
+prev_permutation(vector_name.begin(), vector_name.end()),
+
+// finding maximum and minimum element
+*max_element(vector_name.begin(), vector_name.end());
+*min_element(vector_name.begin(), vector_name.end()));
