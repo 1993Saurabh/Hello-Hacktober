@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+  printf("*\n**\n***\n****\n");
+  printf("Hello world!\n");
+  printf("****\n***\n**\n*\n");
+  return 0;
+}
