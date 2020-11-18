@@ -1,0 +1,8 @@
+; Hello World in Kix
+  
+Run( "Notepad.exe" )
+Sleep 1
+SetFocus( "Untitled - Notepad" )
+$ReturnCode = SendKeys("Hello World")
+Sleep( 2 )
+$ReturnCode = SendKeys("~{F4}Y")
