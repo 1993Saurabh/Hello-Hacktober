@@ -9,7 +9,7 @@ int main()
   // if-else statement
   int x = 18;
   int y = 25;
-  if(x>=x)
+  if(x>=y)
   {
     cout<<"Adult"<<endl;
   }
